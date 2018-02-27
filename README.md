@@ -1,4 +1,4 @@
-#Raspberry Pi 3 Timelapse
+# Raspberry Pi 3 Timelapse
 
 **Enable camera**
 sudo raspi-config
