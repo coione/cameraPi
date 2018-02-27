@@ -1,0 +1,11 @@
+sudo modprobe bcm2835-v4l2
+sudo motion -n
+
+
+/var/lib/motion
+
+
+sudo nano /etc/motion/motion.conf
+
+
+tail -f /var/log/motion/motion.log
